@@ -1,0 +1,7 @@
+/Users/williamcalhoun/Desktop/Equal/obj/Debug/netcoreapp3.1/Equal.csprojAssemblyReference.cache
+/Users/williamcalhoun/Desktop/Equal/obj/Debug/netcoreapp3.1/Equal.AssemblyInfoInputs.cache
+/Users/williamcalhoun/Desktop/Equal/obj/Debug/netcoreapp3.1/Equal.AssemblyInfo.cs
+/Users/williamcalhoun/Desktop/Equal/obj/Debug/netcoreapp3.1/Equal.csproj.CoreCompileInputs.cache
+/Users/williamcalhoun/Desktop/Equal/obj/Debug/netcoreapp3.1/Equal.MvcApplicationPartsAssemblyInfo.cache
+/Users/williamcalhoun/Desktop/Equal/obj/Debug/netcoreapp3.1/Equal.RazorAssemblyInfo.cache
+/Users/williamcalhoun/Desktop/Equal/obj/Debug/netcoreapp3.1/Equal.RazorAssemblyInfo.cs
